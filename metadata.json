@@ -1,0 +1,8 @@
+{
+  "name": "Drift Master Realistic",
+  "description": "Experience hyper-realistic drifting with immersive car physics and high-quality dynamic animations for mobile devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
